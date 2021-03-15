@@ -1,0 +1,19 @@
+{
+  "name": "wn21-static-pages",
+  "version": "1.0.0",
+  "description": "a simple node.js example that serves up static web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valerie-18/node-wn21-static-pages.git"
+  },
+  "author": "Valerie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerie-18/node-wn21-static-pages/issues"
+  },
+  "homepage": "https://github.com/Valerie-18/node-wn21-static-pages#readme"
+}
